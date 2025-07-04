@@ -1,0 +1,68 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 79999,
+    "feature": "A15 Bionic, Dual Camera",
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S22",
+    "price": 69999,
+    "feature": "Dynamic AMOLED, 120Hz Display",
+    "company": "samsung"
+  },
+  {
+    "name": "Mi 11X",
+    "price": 26999,
+    "feature": "Snapdragon 870, AMOLED Display",
+    "company": "mi"
+  },
+  {
+    "name": "iPhone 13 Mini",
+    "price": 65999,
+    "feature": "A15 Bionic, Compact Design",
+    "company": "apple"
+  },
+  {
+    "name": "Aamsung A73",
+    "price": 42999,
+    "feature": "108MP Camera, Super AMOLED+",
+    "company": "samsung"
+  },
+  {
+    "name": "Mi Pad 5",
+    "price": 27999,
+    "feature": "2.5K Display, Snapdragon 860",
+    "company": "mi"
+  },
+  {
+    "name": "iPad Air 5",
+    "price": 58999,
+    "feature": "M1 Chip, 10.9-inch Liquid Retina",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Tab S7 FE",
+    "price": 45999,
+    "feature": "S-Pen, 12.4 inch TFT Display",
+    "company": "samsung"
+  },
+  {
+    "name": "Mi Smart Band 7",
+    "price": 3999,
+    "feature": "AMOLED, 120 Sports Modes",
+    "company": "mi"
+  },
+  {
+    "name": "iPhone SE 3",
+    "price": 49999,
+    "feature": "A15 Bionic, Touch ID",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung M53",
+    "price": 25999,
+    "feature": "108MP Camera, 120Hz Display",
+    "company": "samsung"
+  }
+]
