@@ -22,7 +22,7 @@ res.send('hello server page')
 
 
 
-const port=1000
+const port=process.env.PORT||1000
 app.listen(port,()=>{
 console.log('hello')
 })
